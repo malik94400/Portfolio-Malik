@@ -1,6 +1,6 @@
 [
   {
-    "name": "Instagram MERN",
+    "name": "Lumyblu",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
     "image": "instagrammern",
     "category": "mern",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "Flipkart MERN",
+    "name": "Melshop",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
     "category": "mern",
@@ -20,7 +20,16 @@
     }
   },
   {
-    "name": "ResumeGen",
+    "name": "Prestige Travel",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://shahzaib94400.wordpress.com/"
+    }
+  },
+  {
+    "name": "Veliko",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
     "image": "resumegen",
     "category": "mern",
