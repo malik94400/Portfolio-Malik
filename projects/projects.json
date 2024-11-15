@@ -5,8 +5,7 @@
     "image": "Lumyblu",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "Lumyblu.html"
     }
   },
   {
@@ -25,7 +24,7 @@
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://shahzaib94400.wordpress.com/"
+      "view": "E-Print.html"
     }
   },
   {
@@ -34,8 +33,7 @@
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "Veliko.html"
     }
   }
 ]
